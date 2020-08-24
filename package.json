@@ -1,0 +1,13 @@
+{
+  "name": "kind-words-check",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ben Junya<bjunya@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bin": "bin.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
